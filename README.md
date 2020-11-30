@@ -8,4 +8,4 @@ project does, how to use it and anything else they may need to know.
 
 
 ## License
-This work is licensed under [EU PL 1.2](LICENSE) by the State of Berl
+This work is licensed under [EU PL 1.2](LICENSE) by the State of Berlin, Germany, represented by [Tege
