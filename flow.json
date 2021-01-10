@@ -2,4 +2,5 @@
     {
         "id": "6f48da2d.1a0114",
         "type": "tab",
-        "label": "IN: Weather O
+        "label": "IN: Weather Observed to MQTT",
+        
