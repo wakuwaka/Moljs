@@ -4,4 +4,7 @@
         "type": "tab",
         "label": "IN: Weather Observed to MQTT",
         "disabled": false,
-        
+        "info": ""
+    },
+    {
+       
