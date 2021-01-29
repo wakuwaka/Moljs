@@ -18,4 +18,4 @@
         "type": "mqtt-broker",
         "name": "External Platform MQTT Broker",
         "broker": "${EXT_MQTT_SERVER}",
- 
+        "port": "${EXT_MQTT_PORT}
