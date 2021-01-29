@@ -17,4 +17,5 @@
         "id": "24b003e1.eae97c",
         "type": "mqtt-broker",
         "name": "External Platform MQTT Broker",
-        "broker": "$
+        "broker": "${EXT_MQTT_SERVER}",
+ 
