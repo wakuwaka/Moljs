@@ -21,4 +21,4 @@
         "port": "${EXT_MQTT_PORT}",
         "clientid": "EXT_MQTT_CON",
         "usetls": false,
- 
+        "compatmode": false
