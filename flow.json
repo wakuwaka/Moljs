@@ -19,4 +19,6 @@
         "name": "External Platform MQTT Broker",
         "broker": "${EXT_MQTT_SERVER}",
         "port": "${EXT_MQTT_PORT}",
-        "clientid": "EXT_MQTT_CO
+        "clientid": "EXT_MQTT_CON",
+        "usetls": false,
+ 
