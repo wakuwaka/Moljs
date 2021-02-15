@@ -23,4 +23,4 @@
         "usetls": false,
         "compatmode": false,
         "keepalive": "60",
-        "clean
+        "cleansession": true,
