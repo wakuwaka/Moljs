@@ -24,3 +24,5 @@
         "compatmode": false,
         "keepalive": "60",
         "cleansession": true,
+        "birthTopic": "",
+   
