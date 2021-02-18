@@ -25,4 +25,4 @@
         "keepalive": "60",
         "cleansession": true,
         "birthTopic": "",
-   
+        "birthQos": "0",
