@@ -27,4 +27,5 @@
         "birthTopic": "",
         "birthQos": "0",
         "birthPayload": "",
+        "closeTopic": "",
         "cl
