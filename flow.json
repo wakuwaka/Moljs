@@ -26,4 +26,5 @@
         "cleansession": true,
         "birthTopic": "",
         "birthQos": "0",
-        "birthPayload": 
+        "birthPayload": "",
+        "cl
