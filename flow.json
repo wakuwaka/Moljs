@@ -28,4 +28,5 @@
         "birthQos": "0",
         "birthPayload": "",
         "closeTopic": "",
-        "cl
+        "closeQos": "0",
+        "closePa
