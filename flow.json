@@ -29,4 +29,5 @@
         "birthPayload": "",
         "closeTopic": "",
         "closeQos": "0",
-        "closePa
+        "closePayload": "",
+        "willTop
