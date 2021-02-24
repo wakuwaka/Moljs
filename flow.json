@@ -31,4 +31,5 @@
         "closeQos": "0",
         "closePayload": "",
         "willTopic": "",
-        "wil
+        "willQos": "0",
+        "will
