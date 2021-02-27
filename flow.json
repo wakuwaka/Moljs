@@ -39,4 +39,5 @@
         "type": "http request",
         "z": "6f48da2d.1a0114",
         "name": "OWM Get",
-        "m
+        "method": "GET",
+        "ret"
