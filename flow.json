@@ -41,4 +41,5 @@
         "name": "OWM Get",
         "method": "GET",
         "ret": "obj",
-        "payto
+        "paytoqs": false,
+       
