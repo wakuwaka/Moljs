@@ -43,4 +43,5 @@
         "ret": "obj",
         "paytoqs": false,
         "url": "",
-        "tls"
+        "tls": "",
+        "persist":
