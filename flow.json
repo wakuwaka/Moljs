@@ -44,4 +44,5 @@
         "paytoqs": false,
         "url": "",
         "tls": "",
-        "persist":
+        "persist": false,
+        "proxy
