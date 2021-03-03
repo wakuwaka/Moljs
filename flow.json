@@ -45,4 +45,5 @@
         "url": "",
         "tls": "",
         "persist": false,
-        "proxy
+        "proxy": "",
+        "authType":
