@@ -61,4 +61,5 @@
         "type": "inject",
         "z": "6f48da2d.1a0114",
         "name": "Trigger APIs",
-        "repeat": 
+        "repeat": "60",
+        "crontab": 
