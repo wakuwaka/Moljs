@@ -62,4 +62,5 @@
         "z": "6f48da2d.1a0114",
         "name": "Trigger APIs",
         "repeat": "60",
-        "crontab": 
+        "crontab": "",
+        "once": true,
