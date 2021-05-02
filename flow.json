@@ -100,4 +100,5 @@
         "z": "6f48da2d.1a0114",
         "name": "",
         "active": false,
-        "tosidebar": tr
+        "tosidebar": true,
+        "console": fa
