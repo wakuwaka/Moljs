@@ -101,4 +101,5 @@
         "name": "",
         "active": false,
         "tosidebar": true,
-        "console": fa
+        "console": false,
+        "tostatus": false,
