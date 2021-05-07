@@ -103,4 +103,5 @@
         "tosidebar": true,
         "console": false,
         "tostatus": false,
-        "complete
+        "complete": "true",
+        "targetType": "full",
