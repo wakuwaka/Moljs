@@ -114,4 +114,6 @@
         "type": "comment",
         "z": "6f48da2d.1a0114",
         "name": "Get current weather data from OWM for one Station",
-        "info": 
+        "info": "",
+        "x": 250,
+     
