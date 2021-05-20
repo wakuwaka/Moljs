@@ -113,4 +113,5 @@
         "id": "d38b4c48.b657b",
         "type": "comment",
         "z": "6f48da2d.1a0114",
-        "name": "Get current weather data from OWM for one S
+        "name": "Get current weather data from OWM for one Station",
+        "info": 
