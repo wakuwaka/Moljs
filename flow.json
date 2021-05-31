@@ -124,4 +124,6 @@
         "type": "function",
         "z": "6f48da2d.1a0114",
         "name": "Save OWM Response",
-        "func": "msg.topic = \"WeatherObserved\";\nreturn msg
+        "func": "msg.topic = \"WeatherObserved\";\nreturn msg;",
+        "outputs": 1,
+     
