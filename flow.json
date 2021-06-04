@@ -127,4 +127,5 @@
         "func": "msg.topic = \"WeatherObserved\";\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "ini
+        "initialize": "",
+        "finalize
