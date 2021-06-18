@@ -142,4 +142,5 @@
         "type": "mqtt out",
         "z": "6f48da2d.1a0114",
         "name": "",
-  
+        "topic": "",
+        "qo
