@@ -144,4 +144,5 @@
         "name": "",
         "topic": "",
         "qos": "1",
-        "retain": 
+        "retain": "",
+        "broker": "
