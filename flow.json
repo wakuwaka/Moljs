@@ -155,4 +155,4 @@
         "type": "function",
         "z": "e919f858.6ce278",
         "name": "Prepare NGSI Create Message",
-        "func": "var observed_at = new Date();\nmsg.payload={\n        \"id\": \"urn:ngsi-ld:WeatherObserved:Germany-WeatherObserved-\" + msg.owm.i
+        "func": "var observed_at = new Date();\nmsg.payload={\n        \"id\": \"urn:ngsi-ld:WeatherObserved:Germany-WeatherObserved-\" + msg.owm.id,\n    \"type\": \"WeatherObserve
