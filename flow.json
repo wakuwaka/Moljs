@@ -180,4 +180,5 @@
         "tls": "",
         "persist": false,
         "proxy": "",
-        "au
+        "authType": "",
+        "
