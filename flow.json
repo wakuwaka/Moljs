@@ -195,4 +195,4 @@
         "type": "function",
         "z": "e919f858.6ce278",
         "name": "Setup NGSI Request",
-        "fun
+        "func": "msg.url = env.get(\
