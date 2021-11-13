@@ -216,4 +216,5 @@
         "active": true,
         "tosidebar": true,
         "console": false,
-        "t
+        "tostatus": false,
+ 
