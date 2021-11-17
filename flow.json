@@ -217,4 +217,5 @@
         "tosidebar": true,
         "console": false,
         "tostatus": false,
-        "complete": "tru
+        "complete": "true",
+        "targetType": "
