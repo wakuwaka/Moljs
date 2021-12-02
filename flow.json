@@ -227,4 +227,5 @@
         "id": "8ab67bac.7776a8",
         "type": "function",
         "z": "e919f858.6ce278",
-        "name": "Setup NGSI PUT Request
+        "name": "Setup NGSI PUT Request",
+        "func": "msg.ow
