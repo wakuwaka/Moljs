@@ -228,4 +228,4 @@
         "type": "function",
         "z": "e919f858.6ce278",
         "name": "Setup NGSI PUT Request",
-        "func": "msg.owm = msg.payload;\nmsg.url = env.get(\"SC_ORI
+        "func": "msg.owm = msg.payload;\nmsg.url = env.get(\"SC_ORION_SERVER\")+\"/v2/entities/ur
