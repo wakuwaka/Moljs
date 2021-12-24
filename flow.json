@@ -231,4 +231,5 @@
         "func": "msg.owm = msg.payload;\nmsg.url = env.get(\"SC_ORION_SERVER\")+\"/v2/entities/urn:ngsi-ld:WeatherObserved:Germany-WeatherObserved-\"+msg.owm.id+\"/attrs\";\nmsg.headers = {};\nmsg.headers['Content-Type'] = 'application/json';\nmsg.headers['Fiware-Service'] = 'mainservice';\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "initiali
+        "initialize": "",
+        "final
