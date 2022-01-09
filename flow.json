@@ -246,4 +246,4 @@
         "type": "function",
         "z": "e919f858.6ce278",
         "name": "Prepare NGSI Update Message",
-        "func": "var observed_at = new Date();\nmsg.payload={\n    \"atmosphericPressure\": {\n        \"value\": msg.owm.main.pressure\n    },\n    \"relativeHumidity\": {\n        \"value\":
+        "func": "var observed_at = new Date();\nmsg.payload={\n    \"atmosphericPressure\": {\n        \"value\": msg.owm.main.pressure\n    },\n    \"relativeHumidity\": {\n        \"value\": msg.owm.main.humidity\n    }
