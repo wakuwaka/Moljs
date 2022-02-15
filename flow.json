@@ -264,4 +264,4 @@
         "type": "http request",
         "z": "e919f858.6ce278",
         "name": "http PUT Request",
-    
+        "method": "PUT"
