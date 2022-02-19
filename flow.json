@@ -268,4 +268,5 @@
         "ret": "txt",
         "paytoqs": false,
         "url": "",
-        "tls": 
+        "tls": "",
+        "persist": 
