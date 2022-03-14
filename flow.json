@@ -298,4 +298,6 @@
         "name": "Switch on StatusCode other than 204 to Create",
         "property": "statusCode",
         "propertyType": "msg",
-        "rules": 
+        "rules": [
+            {
+               
