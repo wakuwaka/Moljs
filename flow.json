@@ -312,4 +312,5 @@
         ],
         "checkall": "true",
         "repair": false,
-        "outputs
+        "outputs": 2,
+        "x": 400,
