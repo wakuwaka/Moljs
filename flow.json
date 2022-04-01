@@ -330,4 +330,5 @@
         "active": true,
         "tosidebar": true,
         "console": false,
-        "to
+        "tostatus": false,
+   
