@@ -341,4 +341,5 @@
         "id": "e7bc19f9.aa46b8",
         "type": "function",
         "z": "e919f858.6ce278",
+        "name": "Setup NGSI Request",
         
