@@ -343,4 +343,5 @@
         "z": "e919f858.6ce278",
         "name": "Setup NGSI Request",
         "func": "msg.url = env.get(\"SC_ORION_SERVER\")+\"/v2/subscriptions\";\nmsg.headers = {};\nmsg.headers['Content-Type'] = 'application/json';\nmsg.headers['Fiware-Service'] = 'mainservice';\nreturn msg;",
-      
+        "outputs": 1,
+       
