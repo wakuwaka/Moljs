@@ -345,4 +345,5 @@
         "func": "msg.url = env.get(\"SC_ORION_SERVER\")+\"/v2/subscriptions\";\nmsg.headers = {};\nmsg.headers['Content-Type'] = 'application/json';\nmsg.headers['Fiware-Service'] = 'mainservice';\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "ini
+        "initialize": "",
+        "fina
