@@ -371,4 +371,4 @@
         "type": "function",
         "z": "e919f858.6ce278",
         "name": "Prepare NGSI Subscription Create Message NR",
-        "func": "var observed_at = new Date();\nmsg.payload={\n  \"description\": \"Store Bielefeld Weather Data\",\n  \"subject\": {\n    \"entities\": [\n      {\n        \"idPattern\":\"
+        "func": "var observed_at = new Date();\nmsg.payload={\n  \"description\": \"Store Bielefeld Weather Data\",\n  \"subject\": {\n    \"entities\": [\n      {\n        \"idPattern\":\".*\",\n        \"t
