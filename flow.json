@@ -374,4 +374,5 @@
         "func": "var observed_at = new Date();\nmsg.payload={\n  \"description\": \"Store Bielefeld Weather Data\",\n  \"subject\": {\n    \"entities\": [\n      {\n        \"idPattern\":\".*\",\n        \"type\": \"WeatherObserved\"\n      }\n    ],\n    \"condition\": {\n      \"attrs\": [\n        \"dateObserved\"\n      ]\n    }\n  },\n  \"notification\": {\n    \"http\": {\n      \"url\": env.get(\"SC_NOTIFY_SERVER\")+\"/notify\"\n    },\n    \"attrs\": [\n      \"temperature\",\n      \"relativeHumidity\",\n      \"atmosphericPressure\",\n      \"windDirection\",\n      \"windSpeed\",\n      \"dateObserved\"\n    ]\n  },\n  \"throttling\": 40\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "
+        "initialize": "",
+   
