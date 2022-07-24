@@ -412,4 +412,5 @@
         "name": "",
         "active": true,
         "tosidebar": true,
-     
+        "console": false,
+        "tost
