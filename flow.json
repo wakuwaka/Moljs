@@ -446,4 +446,5 @@
         "method": "POST",
         "ret": "txt",
         "paytoqs": false,
-        "url"
+        "url": "",
+        "tls": 
