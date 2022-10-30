@@ -450,4 +450,5 @@
         "tls": "",
         "persist": false,
         "proxy": "",
-        "authT
+        "authType": "",
+        "x": 270
