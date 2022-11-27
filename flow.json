@@ -467,4 +467,4 @@
         "active": true,
         "tosidebar": true,
         "console": false,
-   
+        "tostatus": false,
