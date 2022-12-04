@@ -469,4 +469,6 @@
         "console": false,
         "tostatus": false,
         "complete": "true",
-        "targetType": 
+        "targetType": "full",
+        "x": 730,
+  
