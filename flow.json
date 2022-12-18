@@ -480,4 +480,5 @@
         "z": "e919f858.6ce278",
         "name": "",
         "topic": "WeatherObserved",
-        
+        "qos": "1",
+        "dat
