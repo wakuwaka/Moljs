@@ -481,4 +481,4 @@
         "name": "",
         "topic": "WeatherObserved",
         "qos": "1",
-        "dat
+        "datatype": "auto"
