@@ -482,4 +482,6 @@
         "topic": "WeatherObserved",
         "qos": "1",
         "datatype": "auto",
-        "broker": "24b003e1.
+        "broker": "24b003e1.eae97c",
+        "x": 210,
+    
