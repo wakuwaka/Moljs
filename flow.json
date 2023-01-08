@@ -485,4 +485,6 @@
         "broker": "24b003e1.eae97c",
         "x": 210,
         "y": 60,
-        "wires"
+        "wires": [
+            [
+                "ef24b
