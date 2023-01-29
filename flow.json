@@ -498,4 +498,5 @@
         "name": "",
         "active": true,
         "tosidebar": true,
-        "console": f
+        "console": false,
+        "tostatus": fal
