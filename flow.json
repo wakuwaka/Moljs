@@ -500,4 +500,5 @@
         "tosidebar": true,
         "console": false,
         "tostatus": false,
-        "complet
+        "complete": "true",
+        "targetTyp
