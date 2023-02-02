@@ -501,4 +501,5 @@
         "console": false,
         "tostatus": false,
         "complete": "true",
-        "targetTyp
+        "targetType": "full",
+        "x": 
